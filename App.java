@@ -105,7 +105,7 @@ public class App{
                 System.out.println("Finalizando turno...");
                 break;
             default:
-
+                System.out.println("Opcion inválida, intente de nuevo");
                 break;
             }
         } while (opcion != 4);
